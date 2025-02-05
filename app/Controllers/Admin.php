@@ -11,7 +11,7 @@ class Admin extends BaseController
     {
         $rules = [
             "login" => [
-                "label" => "'Identifiant'", 
+                "label" => "'Identifianttt'", 
                 "rules" => "required"
             ],
             "pwd" => [
